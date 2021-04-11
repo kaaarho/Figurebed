@@ -1,0 +1,679 @@
+C:\Users\H\.conda\envs\DAGAN_PyTorch\python.exe G:/Improved_GAN_PI/test.py
+PIDD G2D30% N30 #1
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016049647703766823
+SSIM testing average: 0.9191018431458151
+PSNR testing average: 30.35096572222729
+
+NMSE testing std: 0.0012680559884756804
+SSIM testing std: 0.006499334865029499
+PSNR testing std: 0.4502200198008361
+
+NMSE sobel testing average: 0.146480530500412
+SSIM sobel testing average: 0.8642129078195718
+PSNR sobel testing average: 29.601761367227212
+
+NMSE sobel testing std: 0.009616698138415813
+SSIM sobel testing std: 0.013854697948186848
+PSNR sobel testing std: 0.7407172072048409
+
+100%|██████████| 40/40 [02:34<00:00,  3.85s/it]
+100%|██████████| 40/40 [02:33<00:00,  3.83s/it]
+FID:  38.633685231519394
+
+PIDD G2D30% N30 #2
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016057029366493225
+SSIM testing average: 0.9191012799320364
+PSNR testing average: 30.351224441081577
+
+NMSE testing std: 0.0012563334312289953
+SSIM testing std: 0.006336902380850983
+PSNR testing std: 0.4395362815209918
+
+NMSE sobel testing average: 0.1467081606388092
+SSIM sobel testing average: 0.864543849126542
+PSNR sobel testing average: 29.620720471971545
+
+NMSE sobel testing std: 0.00850549153983593
+SSIM sobel testing std: 0.013294361083486006
+PSNR sobel testing std: 0.6725400841049585
+
+100%|██████████| 40/40 [02:45<00:00,  4.14s/it]
+100%|██████████| 40/40 [02:50<00:00,  4.26s/it]
+FID:  38.61571446254575
+
+PIDD G2D30% N30 #3
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016052188351750374
+SSIM testing average: 0.9190873144558392
+PSNR testing average: 30.350356532885016
+
+NMSE testing std: 0.0013072899309918284
+SSIM testing std: 0.00673859151602108
+PSNR testing std: 0.4582822510252669
+
+NMSE sobel testing average: 0.146424800157547
+SSIM sobel testing average: 0.8640067754973395
+PSNR sobel testing average: 29.598112634006362
+
+NMSE sobel testing std: 0.008803748525679111
+SSIM sobel testing std: 0.014501952847880676
+PSNR sobel testing std: 0.7428351750907519
+
+100%|██████████| 40/40 [02:51<00:00,  4.29s/it]
+100%|██████████| 40/40 [03:02<00:00,  4.57s/it]
+FID:  38.44966583814849
+
+PIDD G2D30% N30 #4
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016052421182394028
+SSIM testing average: 0.9190856752868244
+PSNR testing average: 30.350431678162984
+
+NMSE testing std: 0.0012382401619106531
+SSIM testing std: 0.006470879286918158
+PSNR testing std: 0.443748271701571
+
+NMSE sobel testing average: 0.14634649455547333
+SSIM sobel testing average: 0.8651041831564064
+PSNR sobel testing average: 29.651143681261253
+
+NMSE sobel testing std: 0.008505325764417648
+SSIM sobel testing std: 0.012807874219728009
+PSNR sobel testing std: 0.6610672022910427
+
+100%|██████████| 40/40 [02:50<00:00,  4.26s/it]
+100%|██████████| 40/40 [02:49<00:00,  4.24s/it]
+FID:  38.50331784880672
+
+PIDD G2D30% N30 #5
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016045672819018364
+SSIM testing average: 0.9190940910144436
+PSNR testing average: 30.3502260248233
+
+NMSE testing std: 0.0012230511056259274
+SSIM testing std: 0.00628653375704892
+PSNR testing std: 0.4448518398061513
+
+NMSE sobel testing average: 0.14645391702651978
+SSIM sobel testing average: 0.8642483604289458
+PSNR sobel testing average: 29.6156462737859
+
+NMSE sobel testing std: 0.008165502920746803
+SSIM sobel testing std: 0.013301958141293082
+PSNR sobel testing std: 0.6980077474049664
+
+100%|██████████| 40/40 [02:53<00:00,  4.34s/it]
+100%|██████████| 40/40 [02:55<00:00,  4.38s/it]
+FID:  38.677658228834304
+
+PIDD G2D30% N30 #6
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.01605958677828312
+SSIM testing average: 0.9191040866318612
+PSNR testing average: 30.351154721569756
+
+NMSE testing std: 0.0013087039114907384
+SSIM testing std: 0.00660468493611664
+PSNR testing std: 0.4384128112567942
+
+NMSE sobel testing average: 0.1463717520236969
+SSIM sobel testing average: 0.8649145034694817
+PSNR sobel testing average: 29.653734151368276
+
+NMSE sobel testing std: 0.008557325229048729
+SSIM sobel testing std: 0.013847819348108196
+PSNR sobel testing std: 0.705294735720367
+
+100%|██████████| 40/40 [02:53<00:00,  4.35s/it]
+100%|██████████| 40/40 [02:53<00:00,  4.35s/it]
+FID:  38.69233955869737
+
+PIDD G2D30% N30 #7
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016057485714554787
+SSIM testing average: 0.9190863490730614
+PSNR testing average: 30.351052520575504
+
+NMSE testing std: 0.0013081125216558576
+SSIM testing std: 0.006502506593647744
+PSNR testing std: 0.4283496111370903
+
+NMSE sobel testing average: 0.14655999839305878
+SSIM sobel testing average: 0.8647749812658425
+PSNR sobel testing average: 29.639648404404383
+
+NMSE sobel testing std: 0.009188336320221424
+SSIM sobel testing std: 0.013384310120592189
+PSNR sobel testing std: 0.6769243937785968
+
+100%|██████████| 40/40 [02:53<00:00,  4.35s/it]
+100%|██████████| 40/40 [02:53<00:00,  4.33s/it]
+FID:  38.615768059020894
+
+PIDD G2D30% N30 #8
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016047222539782524
+SSIM testing average: 0.9191121592655425
+PSNR testing average: 30.35217532400509
+
+NMSE testing std: 0.001309495186433196
+SSIM testing std: 0.006769773211681048
+PSNR testing std: 0.4624610970214355
+
+NMSE sobel testing average: 0.14658594131469727
+SSIM sobel testing average: 0.8639520565724692
+PSNR sobel testing average: 29.589217373038377
+
+NMSE sobel testing std: 0.009198883548378944
+SSIM sobel testing std: 0.014077733608305712
+PSNR sobel testing std: 0.7203942893619786
+
+100%|██████████| 40/40 [02:50<00:00,  4.26s/it]
+100%|██████████| 40/40 [02:49<00:00,  4.25s/it]
+FID:  38.65022170064623
+
+PISD G2D30% N30 #1
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016231270506978035
+SSIM testing average: 0.9190919390861545
+PSNR testing average: 30.30238787694454
+
+NMSE testing std: 0.001258984673768282
+SSIM testing std: 0.006461216762705675
+PSNR testing std: 0.4218206297883414
+
+NMSE sobel testing average: 0.14731484651565552
+SSIM sobel testing average: 0.8621325487670685
+PSNR sobel testing average: 29.58147833924158
+
+NMSE sobel testing std: 0.008392304182052612
+SSIM sobel testing std: 0.013709000808220313
+PSNR sobel testing std: 0.7267731116286091
+
+100%|██████████| 40/40 [02:51<00:00,  4.29s/it]
+100%|██████████| 40/40 [02:51<00:00,  4.29s/it]
+FID:  43.66378034487849
+
+C:\Users\H\.conda\envs\DAGAN_PyTorch\python.exe G:/Improved_GAN_PI/test.py
+PISD G2D30% N30 #1
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016224930062890053
+SSIM testing average: 0.91909565879087
+PSNR testing average: 30.30300509162878
+
+NMSE testing std: 0.0011943005956709385
+SSIM testing std: 0.006098718440847906
+PSNR testing std: 0.4286014587127758
+
+NMSE sobel testing average: 0.14727576076984406
+SSIM sobel testing average: 0.8624934908894
+PSNR sobel testing average: 29.603294678753148
+
+NMSE sobel testing std: 0.008423211984336376
+SSIM sobel testing std: 0.013134165206203306
+PSNR sobel testing std: 0.7068761927596179
+
+100%|██████████| 40/40 [02:24<00:00,  3.62s/it]
+100%|██████████| 40/40 [02:25<00:00,  3.63s/it]
+FID:  43.51025052944294
+
+PISD G2D30% N30 #2
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016229089349508286
+SSIM testing average: 0.9190874335844731
+PSNR testing average: 30.302796086145413
+
+NMSE testing std: 0.001206001965329051
+SSIM testing std: 0.006278682155019175
+PSNR testing std: 0.4376947445834668
+
+NMSE sobel testing average: 0.14728283882141113
+SSIM sobel testing average: 0.8620971173196957
+PSNR sobel testing average: 29.58216237568217
+
+NMSE sobel testing std: 0.00803310889750719
+SSIM sobel testing std: 0.013468332090825989
+PSNR sobel testing std: 0.7153335923793162
+
+100%|██████████| 40/40 [02:26<00:00,  3.65s/it]
+100%|██████████| 40/40 [02:25<00:00,  3.65s/it]
+FID:  43.57338378265973
+
+PISD G2D30% N30 #3
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.01622108742594719
+SSIM testing average: 0.9191098477620517
+PSNR testing average: 30.304508844564108
+
+NMSE testing std: 0.0012198563199490309
+SSIM testing std: 0.006415620021306034
+PSNR testing std: 0.4408648291866433
+
+NMSE sobel testing average: 0.14723744988441467
+SSIM sobel testing average: 0.862496944779062
+PSNR sobel testing average: 29.59771494702984
+
+NMSE sobel testing std: 0.00844653695821762
+SSIM sobel testing std: 0.012916371085410116
+PSNR sobel testing std: 0.6884913504517024
+
+100%|██████████| 40/40 [02:25<00:00,  3.63s/it]
+100%|██████████| 40/40 [02:27<00:00,  3.69s/it]
+FID:  43.74181065901189
+
+PISD G2D30% N30 #4
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.01622290350496769
+SSIM testing average: 0.9191013008094874
+PSNR testing average: 30.303200348687074
+
+NMSE testing std: 0.0012231895234435797
+SSIM testing std: 0.0065864991637341695
+PSNR testing std: 0.4427961355888823
+
+NMSE sobel testing average: 0.14750665426254272
+SSIM sobel testing average: 0.8621645676158457
+PSNR sobel testing average: 29.58315757963399
+
+NMSE sobel testing std: 0.00815178919583559
+SSIM sobel testing std: 0.01369620555997437
+PSNR sobel testing std: 0.7092792324717757
+
+100%|██████████| 40/40 [02:28<00:00,  3.72s/it]
+100%|██████████| 40/40 [02:29<00:00,  3.73s/it]
+FID:  43.59103625017434
+
+PISD G2D30% N30 #5
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016223043203353882
+SSIM testing average: 0.9191083827906528
+PSNR testing average: 30.303525095327007
+
+NMSE testing std: 0.0011799666099250317
+SSIM testing std: 0.006238670931662245
+PSNR testing std: 0.4343993729764247
+
+NMSE sobel testing average: 0.14758510887622833
+SSIM sobel testing average: 0.8619929039687199
+PSNR sobel testing average: 29.57852262167858
+
+NMSE sobel testing std: 0.008077507838606834
+SSIM sobel testing std: 0.013659494793365643
+PSNR sobel testing std: 0.7192841306180808
+
+100%|██████████| 40/40 [02:26<00:00,  3.67s/it]
+100%|██████████| 40/40 [02:26<00:00,  3.67s/it]
+FID:  43.66107305177954
+
+PISD G2D30% N30 #6
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.016232632100582123
+SSIM testing average: 0.9190890201084567
+PSNR testing average: 30.30267274653815
+
+NMSE testing std: 0.0012311781756579876
+SSIM testing std: 0.006212720984410246
+PSNR testing std: 0.43084930410500993
+
+NMSE sobel testing average: 0.14763900637626648
+SSIM sobel testing average: 0.8620440157734918
+PSNR sobel testing average: 29.57516234540887
+
+NMSE sobel testing std: 0.008625192567706108
+SSIM sobel testing std: 0.01317673700040378
+PSNR sobel testing std: 0.6987472766594685
+
+100%|██████████| 40/40 [02:29<00:00,  3.73s/it]
+100%|██████████| 40/40 [02:27<00:00,  3.70s/it]
+FID:  44.06793113338338
+
+PISD G2D30% N30 #7
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.01622755452990532
+SSIM testing average: 0.9191032446095461
+PSNR testing average: 30.303771914827646
+
+NMSE testing std: 0.0012870498467236757
+SSIM testing std: 0.006551763390134121
+PSNR testing std: 0.44258381814760583
+
+NMSE sobel testing average: 0.14756444096565247
+SSIM sobel testing average: 0.8625484609601561
+PSNR sobel testing average: 29.609506891716435
+
+NMSE sobel testing std: 0.009062783792614937
+SSIM sobel testing std: 0.013517099880495915
+PSNR sobel testing std: 0.699312154845065
+
+100%|██████████| 40/40 [02:24<00:00,  3.61s/it]
+100%|██████████| 40/40 [02:24<00:00,  3.61s/it]
+FID:  43.40122883928794
+
+PISD G2D30% N30 #8
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.01622859202325344
+SSIM testing average: 0.9190995494032437
+PSNR testing average: 30.30296538254066
+
+NMSE testing std: 0.0012361080152913928
+SSIM testing std: 0.006406421007175534
+PSNR testing std: 0.44864107515527674
+
+NMSE sobel testing average: 0.1475766897201538
+SSIM sobel testing average: 0.8621310329663983
+PSNR sobel testing average: 29.584045895013343
+
+NMSE sobel testing std: 0.009190418757498264
+SSIM sobel testing std: 0.014211832803151738
+PSNR sobel testing std: 0.7091308811487601
+
+100%|██████████| 40/40 [02:25<00:00,  3.63s/it]
+100%|██████████| 40/40 [02:29<00:00,  3.73s/it]
+FID:  43.56154155969983
+
+nPIDD G2D30% N30 #1
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015475067310035229
+SSIM testing average: 0.9224061293100085
+PSNR testing average: 30.509872993809907
+
+NMSE testing std: 0.0011240254389122128
+SSIM testing std: 0.005890526602976428
+PSNR testing std: 0.42567706026736246
+
+NMSE sobel testing average: 0.14110104739665985
+SSIM sobel testing average: 0.8621533253058281
+PSNR sobel testing average: 29.811119236867935
+
+NMSE sobel testing std: 0.008387253619730473
+SSIM sobel testing std: 0.013232520595231046
+PSNR sobel testing std: 0.6776068230579702
+
+100%|██████████| 40/40 [02:21<00:00,  3.53s/it]
+100%|██████████| 40/40 [02:21<00:00,  3.53s/it]
+FID:  44.4336974778837
+
+nPIDD G2D30% N30 #2
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015489226207137108
+SSIM testing average: 0.9223909988986118
+PSNR testing average: 30.508562059620612
+
+NMSE testing std: 0.0012329081073403358
+SSIM testing std: 0.006094450935922127
+PSNR testing std: 0.44214076507646
+
+NMSE sobel testing average: 0.14109650254249573
+SSIM sobel testing average: 0.8615405148887862
+PSNR sobel testing average: 29.769697041462468
+
+NMSE sobel testing std: 0.008708788082003593
+SSIM sobel testing std: 0.01392949600894364
+PSNR sobel testing std: 0.7152925312554127
+
+100%|██████████| 40/40 [02:21<00:00,  3.53s/it]
+100%|██████████| 40/40 [02:21<00:00,  3.54s/it]
+FID:  44.730983272413596
+
+nPIDD G2D30% N30 #3
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015475501306355
+SSIM testing average: 0.9223899658423934
+PSNR testing average: 30.50945012001938
+
+NMSE testing std: 0.001296786474995315
+SSIM testing std: 0.006382210676069641
+PSNR testing std: 0.4549555143361502
+
+NMSE sobel testing average: 0.14085504412651062
+SSIM sobel testing average: 0.8615116584135191
+PSNR sobel testing average: 29.770831259924176
+
+NMSE sobel testing std: 0.009291622787714005
+SSIM sobel testing std: 0.01463348462100933
+PSNR sobel testing std: 0.7454493180569738
+
+100%|██████████| 40/40 [02:20<00:00,  3.52s/it]
+100%|██████████| 40/40 [02:21<00:00,  3.55s/it]
+FID:  44.60800979528253
+
+nPIDD G2D30% N30 #4
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015473571605980396
+SSIM testing average: 0.9223906073292105
+PSNR testing average: 30.509540324353786
+
+NMSE testing std: 0.001216978533193469
+SSIM testing std: 0.0062870173950998485
+PSNR testing std: 0.4518024587509128
+
+NMSE sobel testing average: 0.1408751904964447
+SSIM sobel testing average: 0.8619251334084238
+PSNR sobel testing average: 29.790594188381238
+
+NMSE sobel testing std: 0.0084383524954319
+SSIM sobel testing std: 0.013159407671493156
+PSNR sobel testing std: 0.678907179841241
+
+100%|██████████| 40/40 [02:26<00:00,  3.66s/it]
+100%|██████████| 40/40 [02:27<00:00,  3.70s/it]
+FID:  44.366185942743044
+
+nPIDD G2D30% N30 #5
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015475040301680565
+SSIM testing average: 0.9224276228531337
+PSNR testing average: 30.511649246507798
+
+NMSE testing std: 0.0012249051360413432
+SSIM testing std: 0.006089831553999365
+PSNR testing std: 0.42919321048259784
+
+NMSE sobel testing average: 0.14116314053535461
+SSIM sobel testing average: 0.8620139009657614
+PSNR sobel testing average: 29.785081776326873
+
+NMSE sobel testing std: 0.008840040303766727
+SSIM sobel testing std: 0.013286002425919477
+PSNR sobel testing std: 0.6716599891320282
+
+100%|██████████| 40/40 [02:31<00:00,  3.80s/it]
+100%|██████████| 40/40 [02:30<00:00,  3.77s/it]
+FID:  44.59656505045825
+
+nPIDD G2D30% N30 #6
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015483018942177296
+SSIM testing average: 0.9223991651164645
+PSNR testing average: 30.509802215766502
+
+NMSE testing std: 0.0012264468241482973
+SSIM testing std: 0.006120921829216094
+PSNR testing std: 0.43589217059199226
+
+NMSE sobel testing average: 0.14137466251850128
+SSIM sobel testing average: 0.8618658816884612
+PSNR sobel testing average: 29.79631234784471
+
+NMSE sobel testing std: 0.009220250882208347
+SSIM sobel testing std: 0.013940012475456133
+PSNR sobel testing std: 0.6832958958891878
+
+100%|██████████| 40/40 [02:37<00:00,  3.95s/it]
+100%|██████████| 40/40 [02:35<00:00,  3.89s/it]
+FID:  44.52752388535407
+
+nPIDD G2D30% N30 #7
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015477217733860016
+SSIM testing average: 0.9223940358194207
+PSNR testing average: 30.50936632565027
+
+NMSE testing std: 0.001227736473083496
+SSIM testing std: 0.006293507578790702
+PSNR testing std: 0.4617673166647846
+
+NMSE sobel testing average: 0.14100809395313263
+SSIM sobel testing average: 0.8615639037636188
+PSNR sobel testing average: 29.788980746617757
+
+NMSE sobel testing std: 0.008610826916992664
+SSIM sobel testing std: 0.014125944778468515
+PSNR sobel testing std: 0.7021968715962866
+
+100%|██████████| 40/40 [02:37<00:00,  3.94s/it]
+100%|██████████| 40/40 [02:36<00:00,  3.91s/it]
+FID:  44.571639771735136
+
+nPIDD G2D30% N30 #8
+[*] Run Basic Configs ... 
+[*] Loading data ... 
+X_test shape:torch.Size([2000, 256, 256, 1])/ min:-1.0/ max:1.0
+[*] Loading Mask ... 
+[*] Loading Network ... 
+[*] Testing  ... 
+NMSE testing average: 0.015478587709367275
+SSIM testing average: 0.9224105618885485
+PSNR testing average: 30.511448861111877
+
+NMSE testing std: 0.0012527217622846365
+SSIM testing std: 0.006339557010505812
+PSNR testing std: 0.44544969238946747
+
+NMSE sobel testing average: 0.14103546738624573
+SSIM sobel testing average: 0.8615125462640119
+PSNR sobel testing average: 29.765291153838877
+
+NMSE sobel testing std: 0.00836246833205223
+SSIM sobel testing std: 0.01372594138383742
+PSNR sobel testing std: 0.7010082511622552
+
+100%|██████████| 40/40 [02:36<00:00,  3.91s/it]
+100%|██████████| 40/40 [02:27<00:00,  3.68s/it]
+FID:  44.50092298328843
+
+
+Process finished with exit code 0
